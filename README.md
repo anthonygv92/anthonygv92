@@ -1,16 +1,42 @@
-## Hi there 👋
+# Gerald Velasquez
 
-<!--
-**anthonygv92/anthonygv92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information security professional with experience in security assurance, risk, customer-facing security, and offensive security. I am building deeper hands-on expertise in cloud, identity, infrastructure, and security engineering.
 
-Here are some ideas to get you started:
+My technical background includes penetration testing, Windows and Active Directory security, incident response, SIEM investigation, Linux, networking, and web application security testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Focus
+
+- Cloud Security
+- Identity & Access Management
+- Active Directory / Windows Security
+- Infrastructure Security
+- Security Engineering
+- Offensive Security / Red Team
+- Detection & Incident Response
+- Security Automation
+
+## Certifications
+
+- OSCP+
+- eCPPT
+- eJPT
+- eWPT
+- CWES / CBBH
+- eCIR
+- CEH
+- Microsoft Azure Fundamentals (AZ-900)
+- ISC2 Certified in Cybersecurity (CC)
+
+## Currently
+
+- Studying for CISSP
+- Developing Git and GitHub skills
+- Building the foundation for future security engineering portfolio projects
+
+## Portfolio
+
+My portfolio focuses on practical security engineering projects that demonstrate the full security lifecycle:
+
+**Build → Secure → Attack → Detect → Investigate → Respond → Remediate → Retest → Explain**
+
+Projects and technical documentation will be added as they are completed.
