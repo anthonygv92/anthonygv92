@@ -1,8 +1,8 @@
 # Gerald Velasquez
 
-Information security professional with experience in security assurance, risk, customer-facing security, and offensive security. I am building deeper hands-on expertise in cloud, identity, infrastructure, and security engineering.
+Information security professional with experience in security assurance, risk, customer-facing security assessments, and offensive security. Currently building deeper hands-on expertise in cloud, identity, and infrastructure security engineering.
 
-My technical background includes penetration testing, Windows and Active Directory security, incident response, SIEM investigation, Linux, networking, and web application security testing.
+My technical background spans penetration testing, Windows and Active Directory security, incident response, SIEM investigation, Linux, networking, and web application security testing.
 
 ## Areas of Focus
 
@@ -18,25 +18,32 @@ My technical background includes penetration testing, Windows and Active Directo
 ## Certifications
 
 - OSCP+
-- eCPPT
-- eJPT
-- eWPT
 - CWES / CBBH
+- eCPPT
+- eWPT
+- eJPT
 - eCIR
 - CEH
 - Microsoft Azure Fundamentals (AZ-900)
 - ISC2 Certified in Cybersecurity (CC)
-
-## Currently
-
-- Studying for CISSP
-- Developing Git and GitHub skills
-- Building the foundation for future security engineering portfolio projects
+- Studying for the CISSP (in progress)
 
 ## Portfolio
 
-My portfolio focuses on practical security engineering projects that demonstrate the full security lifecycle:
+My portfolio focuses on a small number of substantial lab environments, each documented end to end through the full security lifecycle:
 
 **Build → Secure → Attack → Detect → Investigate → Respond → Remediate → Retest → Explain**
 
-Projects and technical documentation will be added as they are completed.
+Current focus areas include Active Directory attack and detection, Azure and Entra ID security, identity engineering, and security automation in Python. Projects and technical write-ups are added here as each one is completed.
+
+## Background
+
+U.S. Army Reserve — 25U Signal Support Systems Specialist. Active Secret clearance.
+B.S. in Cyber Security, Mercy College.
+
+## Contact
+
+- LinkedIn: <your-link>
+- Email: <your-email>
+
+Open to 100% remote cloud / identity security engineering roles.
