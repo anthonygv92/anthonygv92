@@ -43,7 +43,8 @@ B.S. in Cyber Security, Mercy College.
 
 ## Contact
 
-- LinkedIn: <your-link>
-- Email: <your-email>
+- LinkedIn: https://www.linkedin.com/in/geraldvelasquez/
+- Email: anthonygv9207@gmail.com
 
 Open to 100% remote cloud / identity security engineering roles.
+
